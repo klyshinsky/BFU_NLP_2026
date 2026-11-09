@@ -4,3 +4,6 @@
 
 [Лекция 1](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Lecture_1_Reduce_Space.ipynb) - Сокращение размерности пространства признаков, визуализация многомерных данных.
 
+[Семинар 1](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Workshop_20261106.ipynb) - Семинар: пишем при помощи нейросети программу, которая будет визуализировать тексты разных языков в пространстве частот букв.
+
+[Лекция 2](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Lecture_2_Clustering.ipynb) - Кластеризация: k-средних, иерархическая, DB-SCAN.
