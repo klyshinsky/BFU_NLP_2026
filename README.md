@@ -7,3 +7,5 @@
 [Семинар 1](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Workshop_20261106.ipynb) - Семинар: пишем при помощи нейросети программу, которая будет визуализировать тексты разных языков в пространстве частот букв.
 
 [Лекция 2](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Lecture_2_Clustering.ipynb) - Кластеризация: k-средних, иерархическая, DB-SCAN.
+
+[Лекция 3](https://github.com/klyshinsky/BFU_NLP_2026/blob/main/Lecture_3_W2V_Bert.ipynb) - Векторизация текстов при помощи Word2Vec и Bert.
